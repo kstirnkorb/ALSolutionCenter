@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<copyData>
+     <subHeading><![CDATA[select one or more of the classes to learn more about its benefits]]></subHeading>
+	 <section1Summary><![CDATA[For existing data centers with limited expansion plans and low computing density]]></section1Summary>
+     <section1><![CDATA[FOR FACILITIES THAT ARE:]]>
+     	<p><![CDATA[Existing facilities with growth plans or expansion]]></p>
+	 	<p><![CDATA[Retrofit data centers, infrastructure refreshes]]></p>
+	 	<p><![CDATA[Greenfield or new data center builds]]></p>
+	 	<p><![CDATA[Requiring technology upgrades or refreshes]]></p>
+	 	<p><![CDATA[Utilizing a medium density per enclosure, 5-10 kW range]]></p>
+	 	<p><![CDATA[At increased security risks or data center intrusions]]></p> 
+     </section1>
+	 <section1ButtonLabel1><![CDATA[1+ NOT SELECTED]]></section1ButtonLabel1>
+	 <section1ButtonLabel2><![CDATA[1+ SELECTED]]></section1ButtonLabel2>
+	 <section2Summary><![CDATA[For existing facilities with expansion plans and efficiency upgrades through retrofit or new infrastructure builds]]></section2Summary>
+     <section2><![CDATA[FOR FACILITIES THAT ARE:]]>
+     	<p><![CDATA[Existing facilities with growth plans or expansion]]></p>
+	 	<p><![CDATA[Retrofit data centers, infrastructure refreshes]]></p>
+	 	<p><![CDATA[Greenfield or new data center builds]]></p>
+	 	<p><![CDATA[Requiring technology upgrades or refreshes]]></p>
+	 	<p><![CDATA[Utilizing a medium density per enclosure, 5-10 kW range]]></p>
+	 	<p><![CDATA[At increased security risks or data center intrusions]]></p> 
+     </section2>
+	 <section2ButtonLabel1><![CDATA[5+ NOT SELECTED]]></section2ButtonLabel1>
+	 <section2ButtonLabel2><![CDATA[5+ SELECTED]]></section2ButtonLabel2>
+	 <section3Summary><![CDATA[For Greenfield or retrofit data centers using state-of-the-art network and infrastructure designs]]></section3Summary>
+     <section3><![CDATA[FOR FACILITIES THAT ARE:]]>
+     	<p><![CDATA[Existing facilities with growth plans or expansion]]></p>
+	 	<p><![CDATA[Retrofit data centers, infrastructure refreshes]]></p>
+	 	<p><![CDATA[Greenfield or new data center builds]]></p>
+	 	<p><![CDATA[Requiring technology upgrades or refreshes]]></p>
+	 	<p><![CDATA[Utilizing a medium density per enclosure, 5-10 kW range]]></p>
+	 	<p><![CDATA[At increased security risks or data center intrusions]]></p> 
+     </section3>
+	 <section3ButtonLabel1><![CDATA[10+ NOT SELECTED]]></section3ButtonLabel1>
+	 <section3ButtonLabel2><![CDATA[10+ SELECTED]]></section3ButtonLabel2>
+     <bottomSectionCopy><![CDATA[View products available within your selected class(es)]]></bottomSectionCopy>	
+     <moreInfoIPClass1>
+     	<section>
+     		<heading><![CDATA[COPPER CABLING]]></heading>
+     		<bullet><![CDATA[Exceeds Category 5e]]></bullet>
+     		<bullet><![CDATA[155 MHz usable bandwidth/extended headroom]]></bullet>
+     		<bullet><![CDATA[Support of 1 Gigabit Ethernet]]></bullet>
+     	</section>
+     	<section>
+     		<heading><![CDATA[FIBER CABLING]]></heading>
+     		<bullet><![CDATA[ISO/IEC OM2]]></bullet>
+     	</section>
+     	<section>
+     		<heading><![CDATA[RACKS]]></heading>
+     		<bullet><![CDATA[4-post open frame]]></bullet>
+     		<bullet><![CDATA[19" EIA 310-D compliant with identified RMU spacing]]></bullet>
+     		<bullet><![CDATA[Depth adjustable rails]]></bullet>
+     		<bullet><![CDATA[Basic cable management]]></bullet>
+     		<bullet><![CDATA[2,000-lb. capacity]]></bullet>
+     		<bullet><![CDATA[Leveling feet]]></bullet>
+     	</section>
+     	<section>
+     		<heading><![CDATA[UPS]]></heading>
+     		<bullet><![CDATA[Smart communications]]></bullet>
+     		<bullet><![CDATA[Line-interactive technology]]></bullet>
+     		<bullet><![CDATA[Expandable runtimes]]></bullet>
+     		<bullet><![CDATA[Adaptive form factors]]></bullet>
+     	</section>
+     	<section>
+     		<heading><![CDATA[PDU]]></heading>
+     		<bullet><![CDATA[Basic 120 V or 208 V single-phase product]]></bullet>
+     	</section>
+     	<section>
+     		<heading><![CDATA[COOLING]]></heading>
+     		<bullet><![CDATA[Published industry standards best practices]]></bullet>
+     		<bullet><![CDATA[Hot and cold aisle data center layout]]></bullet>
+     	</section>
+     </moreInfoIPClass1>
+     <moreInfoIPClass5>
+     	<section>
+     		<heading><![CDATA[COPPER CABLING]]></heading>
+     		<bullet><![CDATA[Exceeds Category 6]]></bullet>
+     		<bullet><![CDATA[250 MHz usable bandwidth/extended headroom]]></bullet>
+     		<bullet><![CDATA[Support of 1 Gigabit Ethernet]]></bullet>
+     	</section>
+     	<section>
+     		<heading><![CDATA[FIBER CABLING]]></heading>
+     		<bullet><![CDATA[ISO/IEC OM3]]></bullet>
+     		<bullet><![CDATA[10 Gigabit Ethernet distance – 300 meters]]></bullet>
+     		<bullet><![CDATA[40/100 Gigabit Ethernet distance – 100 meters]]></bullet>
+     	</section>
+     	<section>
+     		<heading><![CDATA[CABINETS<br>IP-Class 1+ requirements plus:]]></heading>
+     		<bullet><![CDATA[4-post steel frame, fully enclosed]]></bullet>
+     		<bullet><![CDATA[63% perforated doors]]></bullet>
+     		<bullet><![CDATA[Width to fit Cat 6 cable and cable management]]></bullet>
+     		<bullet><![CDATA[Basic thermal management]]></bullet>
+     		<bullet><![CDATA[Electronic locking system]]></bullet>
+     	</section>
+     	<section>
+     		<heading><![CDATA[UPS<br>IP-Class 1+ requirements plus:]]></heading>
+     		<bullet><![CDATA[Scalable or modular]]></bullet>
+     		<bullet><![CDATA[Input power factor correction]]></bullet>
+     		<bullet><![CDATA[Min. of 92% efficient at 50% load]]></bullet>
+     	</section>
+     	<section>
+     		<heading><![CDATA[PDU]]></heading>
+     		<bullet><![CDATA[208 V, single phase]]></bullet>
+     		<bullet><![CDATA[208 V, single phase, metered, monitored or switched]]></bullet>
+     		<bullet><![CDATA[Three-phase basic]]></bullet>
+     	</section>
+     	<section>
+     		<heading><![CDATA[COOLING<br>IP-Class 1+ requirements plus:]]></heading>
+     		<bullet><![CDATA[Passive containment solutions]]></bullet>
+     		<bullet><![CDATA[Hot and cold aisle containment]]></bullet>
+     		<bullet><![CDATA[Close-coupled in-row cooling]]></bullet>
+     		<bullet><![CDATA[Enclosure-based heat exchangers]]></bullet>
+     	</section>
+     </moreInfoIPClass5>
+     
+     <moreInfoIPClass10>
+     	<section>
+     		<heading><![CDATA[COPPER CABLING]]></heading>
+     		<bullet><![CDATA[Exceeds Category 6A]]></bullet>
+     		<bullet><![CDATA[500 MHz usable bandwidth/extended headroom]]></bullet>
+     		<bullet><![CDATA[Support of 10 Gigabit Ethernet]]></bullet>
+     	</section>
+     	<section>
+     		<heading><![CDATA[FIBER CABLING]]></heading>
+     		<bullet><![CDATA[ISO/IEC OM4]]></bullet>
+     		<bullet><![CDATA[10 Gigabit Ethernet distance – 550 meters]]></bullet>
+     		<bullet><![CDATA[40/100 Gigabit Ethernet distance – 150 meters]]></bullet>
+     	</section>
+     	<section>
+     		<heading><![CDATA[CABINETS<br>IP-Class 5+ requirements plus:]]></heading>
+     		<bullet><![CDATA[78% perforated doors]]></bullet>
+     		<bullet><![CDATA[Width to fit Cat 6A cable and cable management]]></bullet>
+     		<bullet><![CDATA[Extensive cable management]]></bullet>
+     		<bullet><![CDATA[Cabinet level security system–locks and audit trail capture]]></bullet>
+     		<bullet><![CDATA[Capacity to accommodate up to 2,500-lb. payload]]></bullet>
+     		<bullet><![CDATA[Grounding kit]]></bullet>
+     		<bullet><![CDATA[UL Listed 60950]]></bullet>
+     	</section>
+     	<section>
+     		<heading><![CDATA[UPS<br>IP-Class 5+ requirements plus:]]></heading>
+     		<bullet><![CDATA[Online technology, configurable]]></bullet>
+     		<bullet><![CDATA[Ultra efficiency ratings, min. 95% at 50% load]]></bullet>
+     		<bullet><![CDATA[Configurable runtime, with alternative fuel supply capability]]></bullet>
+     	</section>
+     	<section>
+     		<heading><![CDATA[PDU]]></heading>
+     		<bullet><![CDATA[Three-phase basic, IP metered, monitored and/or switched]]></bullet>
+     	</section>
+     	<section>
+     		<heading><![CDATA[COOLING<br>IP-Class 5+ requirements plus:]]></heading>
+     		<bullet><![CDATA[Fully ducted containment solutions]]></bullet>
+     		<bullet><![CDATA[Variable speed, fans, pumps and chillers]]></bullet>
+     		<bullet><![CDATA[Free cooling air and water side economizers]]></bullet>
+     	</section>
+     </moreInfoIPClass10>        
+</copyData>
